@@ -1,4 +1,6 @@
-# Google Adwords Conversion Tracking Titanium Module
+# AdwordsConversionTrackingTitaniumModule Module
+
+## Description
 
 This Titanium module wraps the Google mobile Ads Conversion tracking for iOS SDK from:  
 [https://developers.google.com/mobile-ads-sdk/docs/admob/conversion-tracking](https://developers.google.com/mobile-ads-sdk/docs/admob/conversion-tracking)
@@ -15,14 +17,6 @@ As per:
 
 download and unzip this module into your Titanium project:  
 [https://raw.github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module/master/com.geoplus.adwordsconversiontracking-iphone-0.1.zip](https://raw.github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module/master/com.geoplus.adwordsconversiontracking-iphone-0.1.zip)
-
-and then reference it in your tiapp.xml:
-
-    <ti:app>
-      <modules>
-        <module version="0.1" platform="iphone">com.geoplus.adwordsconversiontracking</module>
-      </modules>
-    </ti:app>
 
 ## Using this module
 
@@ -44,3 +38,23 @@ and then reference it in your tiapp.xml:
         isRepeatable: true
       });
     }
+
+## Author
+
+Jason Kotchoff  
+[http://www.geoplus.com.au](http://www.geoplus.com.au)
+
+## License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
