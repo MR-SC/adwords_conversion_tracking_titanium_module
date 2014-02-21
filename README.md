@@ -6,7 +6,11 @@ This Titanium module wraps the Google mobile Ads Conversion tracking for iOS SDK
 It was created as per the Appcelerator Titanium iOS Module Development Guide:  
 [https://wiki.appcelerator.org/display/guides/iOS+Module+Development+Guide](https://wiki.appcelerator.org/display/guides/iOS+Module+Development+Guide)
 
+the origin repo you can see here:
+[https://github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module](https://github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module)
+
 using Titanium sdk version 3.0.2
+
 
 ## Installing this module
 
@@ -16,8 +20,6 @@ As per:
 download and unzip this module into your Titanium project:  
 [https://raw.github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module/master/com.geoplus.adwordsconversiontracking-iphone-0.1.zip](https://raw.github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module/master/com.geoplus.adwordsconversiontracking-iphone-0.1.zip)
 
-the origin repo you can see here:
-[https://github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module](https://github.com/cornflakesuperstar/adwords_conversion_tracking_titanium_module)
 
 and then reference it in your tiapp.xml:
 
